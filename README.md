@@ -82,7 +82,7 @@ docker-compose stop
 
 ### Support
 
-For support, please contact [info@opendatahub.bz.it](mailto:info@opendatahub.bz.it).
+ToDo: For support, please contact [info@opendatahub.bz.it](mailto:info@opendatahub.bz.it).
 
 ### Contributing
 
@@ -106,5 +106,5 @@ The project uses this boilerplate: [https://github.com/idm-suedtirol/hugo-boiler
 
 ### License
 
-The code in this project is licensed under the Mozilla Public License 2.0 license.
+ToDo: The code in this project is licensed under the Mozilla Public License 2.0 license.
 See the LICENSE.md file for more information.

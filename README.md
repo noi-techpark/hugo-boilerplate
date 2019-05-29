@@ -29,7 +29,7 @@ If you don't want to install all prerequisites directly on your machine and inst
 Get a copy of the repository:
 
 ```bash
-ToDo: git clone git@github.com:idm-suedtirol/hugo-boilerplate.git
+ToDo: git clone git@github.com:noi-techpark/hugo-boilerplate.git
 ```
 
 Change directory:

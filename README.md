@@ -96,6 +96,8 @@ If you'd like to contribute, please follow the following instructions:
 
 - Create a pull request against the `master` branch.
 
+A more detailed description can be found here: [https://github.com/noi-techpark/documentation/blob/master/contributors.md](https://github.com/noi-techpark/documentation/blob/master/contributors.md).
+
 ### Documentation
 
 More documentation can be found at [https://opendatahub.readthedocs.io/en/latest/index.html](https://opendatahub.readthedocs.io/en/latest/index.html).

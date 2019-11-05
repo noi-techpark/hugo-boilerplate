@@ -104,7 +104,7 @@ More documentation can be found at [https://opendatahub.readthedocs.io/en/latest
 
 ### Boilerplate
 
-The project uses this boilerplate: [https://github.com/idm-suedtirol/hugo-boilerplate](https://github.com/idm-suedtirol/hugo-boilerplate).
+The project uses this boilerplate: [https://github.com/noi-techpark/hugo-boilerplate](https://github.com/noi-techpark/hugo-boilerplate).
 
 ### License
 

@@ -11,6 +11,7 @@ Replace all `ToDo` notes with the appropriate names, descriptions and commands.
 ToDo: Description of the project.
 
 ToDO: Replace hugo-boilerplate with your project name in the badge links
+![REUSE Compliance](https://github.com/noi-techpark/hugo-boilerplate/actions/workflows/reuse.yml/badge.svg)
 [![CI/CD](https://github.com/noi-techpark/hugo-boilerplate/actions/workflows/main.yml/badge.svg)](https://github.com/noi-techpark/hugo-boilerplate/actions/workflows/main.yml)
 
 ## Table of contents

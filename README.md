@@ -12,7 +12,7 @@ ToDo: Description of the project.
 
 ToDO: Replace hugo-boilerplate with your project name in the badge links
 
-![REUSE Compliance](https://github.com/noi-techpark/hugo-boilerplate/actions/workflows/reuse.yml/badge.svg)
+[![REUSE Compliance](https://github.com/noi-techpark/hugo-boilerplate/actions/workflows/reuse.yml/badge.svg)](https://github.com/noi-techpark/odh-docs/wiki/REUSE#badges)
 [![CI/CD](https://github.com/noi-techpark/hugo-boilerplate/actions/workflows/main.yml/badge.svg)](https://github.com/noi-techpark/hugo-boilerplate/actions/workflows/main.yml)
 
 ## Table of contents
